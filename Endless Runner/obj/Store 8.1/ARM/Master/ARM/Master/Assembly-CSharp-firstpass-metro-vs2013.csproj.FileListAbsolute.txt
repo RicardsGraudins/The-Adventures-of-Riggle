@@ -1,0 +1,17 @@
+C:\Users\Richard\Documents\Endless Runner\bin\Store 8.1\ARM\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Richard\Documents\Endless Runner\bin\Store 8.1\ARM\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Richard\Documents\Endless Runner\bin\Store 8.1\ARM\Master\Assembly-CSharp-firstpass.pri
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\priconfig.xml
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\priconfig.xml.intermediate
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\layout.resfiles
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\layout.resfiles.intermediate
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\resources.resfiles
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\resources.resfiles.intermediate
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\pri.resfiles
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\pri.resfiles.intermediate
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\qualifiers.txt
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\qualifiers.txt.intermediate
+C:\Users\Richard\Documents\Endless Runner\obj\Store 8.1\ARM\Master\ARM\Master\MultipleQualifiersPerDimensionFound.txt
