@@ -1,12 +1,12 @@
-AppStandAlone:
-This was built by selecting the Windows, Mac OS X and Linux standalone option in unity and the targeted platform was Windows
-and the only build version that manages to run on my computer. If you click test.exe it should load up everything in
-test_Data and launch the program. 
+# The Adventures of Riggle
+This repository contains code and information for my first-year undergraudate project completed in 2015 for the module **Mobile Application Developement 1.** The module is taught to undergraduate students at [GMIT](http://www.gmit.ie/) in the Department of Computer Science and Applied Physics. The lecturer is Damien Costello.
 
-Endless Runner:
-The Endless Runner file is the exact copy of the file I used in unity and all of it can be loaded in unity and it will show everything I did to make the app
-that is if you want to look at that & all the C# coding can be viewed in Endless Runner -> Assets -> Scripts..
+##### Overview:
+For this project I created an endless runner game inspired by Mario using the [Unity Game Engine](https://unity3d.com/). The goal of the game is to collect coins and avoid spikes while staying on top of the platforms in order to set a high score. The player can collect various objects in order to double the score gain from coins for a limited time and in order to add some difficultly to the game the player's speed will increase the longer the game goes on.
 
-EndlessRunnerUniversal:
-EndlessRunnerUniversal was built by selecting windows store and universal 10 in unity which has the VS solution file if thats what you're looking for
-and this is the part that goes wrong for me and I tried all the different versions but none of that works on my machine like I mentioned in the email. 
+![The-Adventures-of-Riggle.gif](https://github.com/RicardsGraudins/The-Adventures-of-Riggle/blob/master/The-Adventures-of-Riggle.gif)
+
+##### How to run:
+Simply download the folder and run test.exe located inside AppStandAlone on a Windows device, no prerequisites are required. If you wish to view the game using Unity, open the folder Endless Runner using Unity and accept to convert it from an older version of Unity.
+
+Note: The game is nowhere near finished however it does possess the fundamental features of an endless runner game such as character & camera movment, randomly generated platforms, coins, obstacles, powerups, object pools etc.
